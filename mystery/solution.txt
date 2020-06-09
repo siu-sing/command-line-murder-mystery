@@ -1,0 +1,17 @@
+  528  cat crimescene_clues.txt
+  529  ls
+  530  head people
+  531  cd memberships
+  532  ls
+  533  head AAA
+  534  head Delta_SkyMiles
+  535  head Terminal_City_Library
+  536  head Museum_of_Bash_History
+  537  cat AAA Delta_SkyMiles Terminal_City_Library Museum_of_Bash_History > membership_4.txt
+  538  grep "Joe Germuska\n"
+  539  grep "Joe Germuska" membership_4.txt
+  540  grep "Erika Owens" membership_4.txt
+  541  grep "Jeremy Bowers" membership_4.txt
+  542   cd..
+  543  cd ..
+Jeremy Bowers
